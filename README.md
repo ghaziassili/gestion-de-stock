@@ -8,12 +8,14 @@ Responsable des Ventes :
 Gestion des clients : ajout, modification et suppression des informations clients.
 Gestion des commandes clients : création, suivi et gestion des commandes passées par les clients.
 Recherche d'articles et de catégories d'articles : fonctionnalité de recherche avancée pour faciliter la navigation dans les produits disponibles.
+
 Responsable des Achats :
 
 Gestion des fournisseurs : gestion complète des informations fournisseurs, y compris les contacts et les détails de paiement.
 Gestion des bons de commande : création, suivi et gestion des commandes passées aux fournisseurs.
 Gestion des articles : ajout, modification et suppression des articles disponibles dans le stock.
 Recherche d'articles et de catégories d'articles : fonctionnalité de recherche avancée pour trouver rapidement les articles requis.
+
 Magasinier :
 
 Gestion de l'entrée des articles en stock : enregistrement des nouveaux articles arrivant dans le stock.
